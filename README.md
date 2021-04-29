@@ -1,2 +1,2 @@
 # Nueral-Machine-Translator
-CS6010  Natural Language Processing Final Project
+CS6120  Natural Language Processing Final Project
