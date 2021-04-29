@@ -1,4 +1,4 @@
-# Nueral-Machine-Translator
+# Neural Machine Translator
 CS6120  Natural Language Processing Final Project
 
 The goal of this project was to apply Neural Machine Trans- lation to build a model which can then be employed in a trans- lation task of our choosing. We started off with a simple idea: converting dates of different human-readable formats to one uniform machine-readable format. For our project, we de- cided to build a Neural Machine Translation (NMT) model to translate human-readable dates (”25th of May, 2021”) into machine-readable dates (”2021-05-25”). We did this by using an attention model combined with a Bidirectional Recurrent Neural Network using LSTM neurons to achieve this task. The dataset was to be a collection of 10000 random, fake dates. The model built would then be fed a set of human- readable dates at the end of the training loop and it would out- put the equivalent machine-readable dates based on its learn- ing.
